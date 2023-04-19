@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-   brand: "doenerium",
+   brand: "festory",
 
    webhook: "%WEBHOOK_LINK%",
 
@@ -24,12 +24,12 @@ var config = {
 
 
     embed: {
-        username: "festory",
+        username: "babayim",
         footer: {
-            text: `festory`,
+            text: `zaaa`,
             icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "festory",
+        href: "zaaa",
         avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
